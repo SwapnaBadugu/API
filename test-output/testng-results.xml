@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-15T19:43:54 EDT" name="Default suite" finished-at="2022-04-15T19:44:00 EDT" duration-ms="6339">
+    <groups>
+    </groups>
+    <test started-at="2022-04-15T19:43:54 EDT" name="Default test" finished-at="2022-04-15T19:44:00 EDT" duration-ms="6339">
+      <class name="api.Get_Api">
+        <test-method signature="get()[pri:0, instance:api.Get_Api@31fa1761]" started-at="2022-04-15T19:43:54 EDT" name="get" finished-at="2022-04-15T19:44:00 EDT" duration-ms="6205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- api.Get_Api -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
